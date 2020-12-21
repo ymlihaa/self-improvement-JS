@@ -122,5 +122,5 @@ document.getElementById("btn").addEventListener("click", hello); -----> burada d
 ```
 
 #### Kaynakça :
-    <p>Referans #1: <a href="https://www.w3schools.com/js/js_arrow_function.asp">Buradan Ulaşabilirsiniz .</a> </p>
-    <p>Referans #1: <a href="https://www.youtube.com/watch?v=h33Srr5J9nY&t">Buradan Ulaşabilirsiniz .</a> </p>
+###### https://www.w3schools.com/js/js_arrow_function.asp
+###### https://www.youtube.com/watch?v=h33Srr5J9nY&t
