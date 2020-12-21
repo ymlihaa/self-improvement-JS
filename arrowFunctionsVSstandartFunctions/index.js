@@ -12,7 +12,7 @@ class Person {
   printNameFunction() {
     setTimeout(function () {
       console.log("Function: ", this.name, " ", this.surname);
-    });
+    },100);
   }
 }
 
