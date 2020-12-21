@@ -109,4 +109,4 @@ Bir web tarayıcısında ise , tarayıcı penceresini veya sekmeyi kapattığın
 Fonksiyonların bağımsız değişkenleri (parametreleri) , local değişken davranışı sergiler .
 </p>
 
-<p>Kaynakça<a href="https://www.w3schools.com/js/js_scope.asp" title="Kaynakça"></a> inline link.</p>
+<p>Kaynakça'ya<a href="https://www.w3schools.com/js/js_scope.asp" title="Kaynakça">bu linkten ulaşabilirsiniz .</a> inline link.</p>
