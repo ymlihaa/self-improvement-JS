@@ -122,7 +122,5 @@ document.getElementById("btn").addEventListener("click", hello); -----> burada d
 ```
 
 #### Kaynakça :
-
-<a>
-[I'm a reference-style link][https://www.w3schools.com/js/js_arrow_function.asp]
-[I'm a reference-style link][https://www.youtube.com/watch?v=h33Srr5J9nY&t]
+    <p>Referans #1: <a href="https://www.w3schools.com/js/js_arrow_function.asp">Buradan Ulaşabilirsiniz .</a> </p>
+    <p>Referans #1: <a href="https://www.youtube.com/watch?v=h33Srr5J9nY&t">Buradan Ulaşabilirsiniz .</a> </p>
