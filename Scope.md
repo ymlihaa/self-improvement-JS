@@ -77,7 +77,7 @@ console.log(carName);
 
 ```
 var carName = "volvo";
-console.log(window);
+console.log(window.carName);
 ```
 
 <p> Bu kod bize volvo çıktısını verecektir .</p>
